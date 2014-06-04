@@ -1,5 +1,3 @@
-setwd('/Users/fernando_perez/Documents/workspace_R/coursera/ExploratoryDataAnalysis')
-
 dataRaw <- read.csv('./EDA_PA1_data/household_power_consumption_short.txt', 
                     header=TRUE,
                     stringsAsFactors = FALSE,
